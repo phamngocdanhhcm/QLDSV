@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormDangNhap.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormTrangChu.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormNhapDiem.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormQuanLyLop.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormQuanLySinhVien.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormQuanLiMonHoc.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormQuanLyDiem.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.FormTaoTaiKhoan.resources
